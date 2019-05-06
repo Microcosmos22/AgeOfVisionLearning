@@ -1,0 +1,268 @@
+Failed to load language file - file does not exist.
+Failed to decode SLP images.
+Failed to load SLP files.
+This file has not been saved - save now?
+Save failed - no any frames.
+Save failed - no any frames.
+Failed to decode SLP images.
+No GIF image can be saved - no SLP file has been loaded.
+SLP Anchorer 1.0 beta
+translated by Trisolo (scenario_t_c)
+Frame:
+Delay:
+No image can been used to save as GIF image.
+At least one frame should be selected.
+Save failed - an incorrect delay time is entered.
+Open
+Save
+Save as ...
+Save as animated GIF ...
+About ...
+Exit
+Move left
+Move up
+Move right
+Move down
+Display mode
+Main body
+Selection mask
+All
+Background
+Anchor
+Zoom scale
+Standard
+200%
+400%
+600%
+Test view
+Play
+Stop
+Speed
+You can adjust the GIF animation by removing frame(s) or changing its order and delay time.
+Delay time (ms)
+Loop (0 for infinite loop)
+Move up
+Move down
+Select all
+Delete
+Save as ...
+Cancel
+Palette
+No images to be extracted, perhaps you should reload a SLP file?
+Select at least one image to extract(frames).
+Choose a directory to save files.
+Extract bitmap...
+Do you really want to delete the selected frame(s)?
+Delete frame(s)
+Create new frame(s)...
+Move up
+Move down
+File(&F)
+Edit(&E)
+Anchor(&A)
+Tools(&T)
+About(&B)
+Recently used file
+New
+File not found - Remove it from recent files' list?
+Empty list,Adding file needed.
+Import bitmap file(s) as SLP frame(s).
+Player color
+Auto selection mask
+Add(&A)
+Delete(&D)
+OK(&O)
+Cancel
+Only 256-color bitmaps are supported - the following file(s) are incompatible:
+Enter anchor point...
+Please type in the correct value(s)!
+Crop blank pixels
+Crop setting
+Change anchor point according to chopping results
+Export bitmap setting
+Extract folder
+Fixed canvas size
+Extend canvas (in pixels per each direction)
+Enter anchor point
+Select all
+Auto
+transparent palette index of color
+Invalid file path - file does not exist.
+SLP with less than 5 frames is not supported.
+You must reload your file to have the background color display properly.
+Add the SLP file(s) for this unit (dragging supported). Only land units would be displayed properly.Stand
+Move
+Attack
+Die
+Corpse
+Right-click to move, left-click to attack, F12 to die.
+Animation Preview
+Slow
+Reload(F8)
+Death(F12)
+Stop(F9)
+Background(F11)
+Create shotcut of the current window to desktopBitmap format Converison...
+Convert bitmap(s) to 256-color bitmap(s)File(s) to be converted
+Please wait...
+Palette
+Export Directory
+File replacement:
+Replace existing file(s)
+Rename by numbers
+Add (&A)
+Delete(&D)
+Browse(&B)
+Start(&S)
+Exit
+Conversion ended! Failed:
+Please add file(s) to be converted
+Please select save directory
+Select a directory to save file:
+Please select one frame which you want to replace
+Avoid to error, Please select ONLY ONE frameReplace frame(s)...
+File source
+Replace Params
+New(&N)
+Open(&O)...
+Recent...
+Save(&S)
+Save as...
+Exit(&X)
+Edit(&E)
+Add File (&A)...
+Delete File(&D)
+Replace File(&R)...
+Extract File (&E)...
+Select All
+Clear(&C)
+Add Form...
+Edit Form...
+Delete Form
+View(&V)
+Preview SLP list...
+Auto Play
+Manual Play
+Help(&H)
+About(&A)...
+Note File(F6)
+Search String(F2)
+Go to ID(F7)
+Modify ID(F8)
+Go
+Refresh
+Palette
+Play
+Pause
+Stop
+There is already a form with same filename extension:
+Error: missing filename extension for new form
+Can't find requested string
+Please enter search term
+File is not saved, save now?
+Please select item to edit in the list.
+At least one form is required to add file.
+Create one now?
+Add Form 
+Please select only one item from the list.
+Please enter a correct value.
+There is an item with the same ID:
+Please select the form to delete.
+Please select the form to edit.
+Edit Form
+Please select the directory to save file to.
+Please enter a correct value.
+Can't find ID:
+Please select an item from the list - only one file can be replaced per time.
+File no longer exists. Remove it from the list?
+All
+No
+Deleting a form will delete all files in it. Are you sure to delete? 
+Add File
+Add file and assign it to a target form, then press "OK".
+Add to List 
+File List
+Add(&A)
+Delete(&D)
+Clear
+Ok(&O)
+Cancel 
+Please select a target form to continue.
+Please add a file to continue.
+Please select the file to delete.
+Form Filename Extension
+Ok(&O)
+Cancel
+Please enter the filename extension.
+Illegal character has been found in the input string, please re-enter.
+Preview SLP
+Preview SLP in this DRS file as a list. Click "Close" to terminate this operation.
+Palette
+Close(Esc)
+Reload(&R)
+Stop(&S)
+Current DRS file does not contain any SLP file.
+Time:
+This will clear all files, are you sure?
+Select a program to run.
+Exit(&X)
+Do you make sure to create a shortcut of %s to desktop?
+ID
+Form
+Length
+Note
+Settings
+Warning: To properly configure settings, open the program as administrator if you have Window Vista or 7.
+Set File Association: *.drs
+Set File Association:*.slp
+OK (&O)
+Cancel (Esc)
+Load Anchor...
+Save Anchor...
+Bitmap Background Color
+Invalid palette file.
+Load(&L)...
+Save As(&S)...
+Exit(&X)
+Tools(&T)
+Palette Editor(&P)
+Edit Data
+Nonstandard terrain SLP file.
+Invalid file path
+Please specify save location
+Terrain Cutjoiner
+To produce terrain texture, a cutting/joining process is required
+Join
+Cut
+SLP file
+Bitmap file
+Open
+Save
+Start
+Nonstandard 256-color bitmap format
+Nonstandard bitmap width and/or height, operation failed.
+Are you sure you want to renew the data?
+Save and Return(&R)
+Merger and Shear
+A set of frames can be edited in a bitmap picture
+Merger and Save
+File name for saving
+Save
+Rows
+Background color
+Add height(X2)
+Add width(X2)
+Height,Width of frames:
+Start
+Shear and import
+File name for shearing
+Open
+Column
+Rows
+Preview
+Start
+Blank list. Please add frames first -- in main window
+Speed
+Append dividing line
+dividing line Color
+Null

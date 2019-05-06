@@ -1,0 +1,105 @@
+Failed to load language file - file does not exist.
+Failed to decode SLP images.
+Failed to load SLP files.
+This file has not been saved - save now?
+Save failed - no any frames.
+Save failed - no any frames.
+Failed to decode SLP images.
+No GIF image can be saved - no SLP file has been loaded.
+SLP Anchorer 1.0 beta
+translated by Trisolo (scenario_t_c)
+Frame:
+Delay:
+No image can been used to save as GIF image.
+At least one frame should be selected.
+Save failed - an incorrect delay time is entered.
+File
+Save
+Save as ...
+Save as animated GIF ...
+About ...
+Exit
+Move left
+Move up
+Move right
+Move down
+Display mode
+Main body
+Selection mask
+All
+Background
+Anchor
+Zoom scale
+Standard
+200%
+400%
+600%
+Test view
+Play
+Stop
+Speed
+You can adjust the GIF animation by removing frame(s) or changing its order and delay time.
+Delay time (ms)
+Loop (0 for infinite loop)
+Move up
+Move down
+Select all
+Delete
+Save as ...
+Cancel
+Palette
+No images to be extracted, perhaps you should reload a SLP file?
+Select at least one image to extract(frames).
+Choose a directory to save files.
+Extract bitmap...
+Do you really want to delete the selected frame(s)?
+Delete frame(s)
+Create new frame(s)...
+Move up
+Move down
+File(&F)
+Edit(&E)
+Anchor(&A)
+Tools(&T)
+About(&B)
+Recently used file
+New
+File not found - Remove it from recent files' list?
+Empty list,Adding file needed.
+Import bitmap file(s) as SLP frame(s).
+Player color
+Auto selection mask
+Add(&A)
+Delete(&D)
+OK(&O)
+Cancel
+Only 256-color bitmaps are supported - the following file(s) are incompatible:
+Enter anchor point...
+Please type in the correct value(s)!
+Crop blank pixels
+Crop setting
+Change anchor point according to chopping results
+Export bitmap setting
+Extract folder
+Fixed canvas size
+Extend canvas (in pixels per each direction)
+Enter anchor point
+Select all
+Auto
+transparent palette index of color
+Invalid file path - file does not exist.
+SLP with less than 5 frames is not supported.
+You must reload your file to have the background color display properly.
+Add the SLP file(s) for this unit (dragging supported). Only land units would be displayed properly.
+Stand
+Move
+Attack
+Die
+Corpse
+Right-click to move, left-click to attack, F12 to die.
+Animation Preview
+Slow
+Reload(F8)
+Death(F12)
+Stop(F9)
+Background(F11)

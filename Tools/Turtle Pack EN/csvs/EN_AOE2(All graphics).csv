@@ -1,0 +1,1984 @@
+364,4 Bigger Flames
+363,4 Medium Flames
+362,4 Small Flames
+736,Animation for Arabic Mill
+735,Animation for Asian Mill
+734,Animation for North European Mill
+1683,Animation for Siege/Capped Ram's Front
+737,Animation for West European Mill
+744,Arabic animation for mill sails shadows? Castle Age & Imperial Age
+35,Arabic Archery Range Castle Age & Imperial Age
+23,Arabic Archery Range Feudal Age
+4234,Arabic back of small sail sequence - combine with GRA04230?
+144,Arabic Barracks Castle Age & Imperial Age
+132,Arabic Barracks Feudal Age
+104,Arabic Blacksmith Castle Age & Imperial Age
+92,Arabic Blacksmith Feudal Age
+2548,Arabic bombard tower
+304,Arabic Castle
+2246,Arabic Castle Age & Imperial Age houses
+1020,Arabic Castle Age & Imperial Age Stable
+411,Arabic Castle Age dock? with blankets similar to GRA00399
+3611,Arabic Castle Age town center left side roof
+3619,Arabic Castle Age town center left side roof support
+3615,Arabic Castle Age town center left side roof supports
+4627,Arabic Castle Age Town Center, right side roof
+4635,Arabic Castle Age Town Center, right side roof support
+4631,Arabic Castle Age Town Center, right side roof supports
+4171,Arabic Damaged Stone Wall
+399,Arabic Dock Castle Age & Imperial Age
+387,Arabic Dock Feudal Age
+2234,Arabic Feudal Age houses
+1008,Arabic Feudal Age Stable
+3599,Arabic Feudal Age town center left side roof
+3607,Arabic Feudal Age town center left side roof support
+3603,Arabic Feudal Age town center left side roof supports
+4615,Arabic Feudal Age Town Center right side roof
+4619,Arabic Feudal Age Town Center right side roof supports
+4175,Arabic Fortified Damaged Wall
+4077,Arabic fortified gate building sequence -- position
+3716,Arabic Fortified gate building sequence / position
+3732,Arabic Fortified gate building sequence \ position
+4165,Arabic fortified gate building sequence | position
+1940,Arabic Fortified Gate closed / position
+2441,Arabic Fortified Gate closed \ position
+4037,Arabic Fortified Gate open -- position
+4125,Arabic Fortified Gate open | position
+2369,Arabic Fortified Gate raised / position
+2477,Arabic Fortified Gate raised \ position
+4013,Arabic Fortified gate shut -- position
+4101,Arabic Fortified Gate shut | position
+2405,Arabic Fortified gate tower
+4191,Arabic Fortified severely Damaged Wall
+2112,Arabic Fortified Wall
+3752,Arabic Fortified wall building sequence
+4663,Arabic fortified wall shadows?
+4623,Arabic Fuedal Age Town Center far right roof support
+4069,Arabic gate building sequence -- position
+3708,Arabic gate building sequence / position
+3724,Arabic gate building sequence \ position
+4157,Arabic gate building sequence | position
+1928,Arabic Gate closed / position
+2429,Arabic Gate closed \ position
+4025,Arabic Gate open -- position
+4113,Arabic Gate open | position
+2357,Arabic Gate raised / position
+2465,Arabic Gate raised \ position
+4001,Arabic Gate shut -- position
+4089,Arabic Gate shut | position
+2666,Arabic Guard Tower
+4183,Arabic heavily damaged Fortified Wall
+4179,Arabic heavily Damaged Stone Wall
+3796,Arabic Imperial Age Market
+4639,Arabic Imperial Age Town Center, right side roof
+4647,Arabic Imperial Age Town Center, right side roof support
+4643,Arabic Imperial Age Town Center, right side roof supports
+2540,Arabic Keep
+3506,Arabic lumber camp
+819,Arabic Market Castle Age
+2277,Arabic Market Feudal Age
+748,Arabic mill animation Feudal Age
+740,Arabic Mill Feudal Age without Animation
+752,Arabic Mill without Animation Castle Age & Imperial Age
+3494,Arabic Mining Camp
+280,Arabic Monastery
+4247,Arabic sail sequences
+4187,Arabic severely Damaged Stone Wall
+4303,Arabic ships main sail sequence
+4600,Arabic ships main sail sequence
+4226,Arabic Ships sail sequence
+4297,Arabic ships sail sequence
+4311,Arabic ships sail.
+4319,Arabic ships sail.
+4307,Arabic ships small triangular sail.
+957,Arabic Siege Workshop
+4238,Arabic small sail sequence
+4230,Arabic Small ships sail sequence
+4242,Arabic small triangular sail sequence
+100,Arabic Smoke from Blacksmith
+2393,Arabic Stone gate tower
+2100,Arabic Stone Wall
+914,Arabic top piece of Castle Age Town Center
+902,Arabic top piece of Feudal Age Town Center
+926,Arabic top piece of Imperial Age Town Center
+922,Arabic town center flooring Imperial age
+3471,Arabic town center left side roof supports Imperial Age
+3475,Arabic town center left side roof supports Imperial Age
+906,Arabic town center support shadows Castle Age
+894,Arabic town center support shadows Feudal Age
+918,Arabic town center support shadows Imperial age
+3467,Arabic Towncenter roof left side Imperial Age
+3834,Arabic University Castle Age
+3838,Arabic University Imperial Age
+3744,Arabic wall building sequence
+4659,Arabic wall shadows?
+2654,Arabic Watch Tower
+2698,Arbalest attacking
+2705,Arbalest decaying
+2701,Arbalest dying
+2708,Arbalest moving
+2704,Arbalest standing
+9,Archer Decaying
+5,Archer Dying
+2,Archer firing
+12,Archer Moving
+8,Archer standing
+3799,Arrow
+3812,Arrow or rocket?
+3547,Arrow or spear?
+34,Asian Archery Range Castle Age & Imperial Age
+22,Asian Archery Range Feudal Age
+4233,Asian back of small sail sequence - combine with GRA04229?
+143,Asian Barracks Castle Age & Imperial Age
+131,Asian Barracks Feudal Age
+103,Asian Blacksmith Castle Age & Imperial Age
+91,Asian Blacksmith Feudal Age
+2547,Asian bombard tower
+303,Asian Castle
+2245,Asian Castle Age & Imperial Age houses
+1019,Asian Castle Age & Imperial Age Stable
+410,Asian Castle Age dock? Similar to GRA00398
+3610,Asian Castle Age town center left side roof
+3618,Asian Castle Age town center left side roof support
+3614,Asian Castle Age town center left side roof supports
+4626,Asian Castle Age Town Center, right side roof
+4634,Asian Castle Age Town Center, right side roof support
+4630,Asian Castle Age Town Center, right side roof supports
+4170,Asian Damaged Stone Wall
+398,Asian Dock Castle Age & Imperial Age
+386,Asian Dock Feudal Age
+2233,Asian Feudal Age houses
+1007,Asian Feudal Age Stable
+3598,Asian Feudal Age town center left side roof
+3606,Asian Feudal Age town center left side roof support
+3602,Asian Feudal Age town center left side roof supports
+4614,Asian Feudal Age Town Center right side roof
+4618,Asian Feudal Age Town Center right side roof supports
+4174,Asian Fortified Damaged Wall
+4076,Asian fortified gate building sequence -- position
+3715,Asian Fortified gate building sequence / position
+3731,Asian Fortified gate building sequence \ position
+4164,Asian fortified gate building sequence | position
+1939,Asian Fortified Gate closed / position
+2440,Asian Fortified Gate closed \ position
+4036,Asian Fortified Gate open -- position
+4124,Asian Fortified Gate open | position
+2368,Asian Fortified Gate raised / position
+2476,Asian Fortified Gate raised \ position
+4012,Asian Fortified gate shut -- position
+4100,Asian Fortified Gate shut | position
+2404,Asian Fortified gate tower
+4190,Asian Fortified severely Damaged Wall
+2111,Asian Fortified Wall
+3751,Asian Fortified wall building sequence
+4662,Asian fortified wall shadows?
+4622,Asian Fuedal Age Town Center far right roof support
+4068,Asian gate building sequence -- position
+3707,Asian gate building sequence / position
+3723,Asian gate building sequence \ position
+4156,Asian gate building sequence | position
+1927,Asian Gate closed / position
+2428,Asian Gate closed \ position
+4024,Asian Gate open  -- position
+4112,Asian Gate open | position
+2356,Asian Gate raised / position
+2464,Asian Gate raised \ position
+4000,Asian Gate shut -- position
+4088,Asian Gate shut | position
+2665,Asian Guard Tower
+4182,Asian heavily damaged Fortified Wall
+4178,Asian heavily Damaged Stone Wall
+3795,Asian Imperial Age Market
+4638,Asian Imperial Age Town Center, right side roof
+4646,Asian Imperial Age Town Center, right side roof support
+4642,Asian Imperial Age Town Center, right side roof supports
+2539,Asian Keep
+3505,Asian lumber camp
+818,Asian Market Castle Age
+2276,Asian Market Feudal Age
+747,Asian mill animation Feudal Age
+739,Asian Mill Feudal Age without Animation
+751,Asian Mill without Animation Castle Age & Imperial Age
+3493,Asian Mining Camp
+279,Asian Monastery.
+4246,Asian sail sequences
+4186,Asian severely Damaged Stone Wall
+4302,Asian ships main sail sail sequence
+4599,Asian ships main sail sequence
+4310,Asian ships sail
+4225,Asian Ships sail sequence
+4296,Asian ships sail sequence
+4318,Asian ships sail.
+4306,Asian ships small triangular sail
+956,Asian Siege Workshop
+4237,Asian small sail sequence
+4229,Asian Small ships sail sequence
+4241,Asian small triangular sail sequence
+99,Asian Smoke from Blacksmith
+2392,Asian Stone gate tower
+2099,Asian Stone Wall
+913,Asian top piece of Castle Age Town Center
+901,Asian top piece of Feudal Age Town Center
+925,Asian top piece of Imperial Age Town Center
+921,Asian town center flooring Imperial age
+3470,Asian town center left side roof supports Imperial Age
+3474,Asian town center left side roof supports Imperial Age
+905,Asian town center support shadows Castle Age
+893,Asian town center support shadows Feudal Age
+917,Asian town center support shadows Imperial age
+3466,Asian Towncenter roof left side Imperial Age
+1137,Asian Trade Workshop
+3833,Asian University Castle Age
+3837,Asian University Imperial Age
+3743,Asian wall building sequence
+4658,Asian wall shadows?
+2653,Asian Watch Tower
+4327,Back of Arabic ships sail
+4315,Back of Arabic ships sail - combine with GRA04311?
+4323,Back of Arabic ships sail - combine with GRA04319
+4326,Back of Asian ships sail
+4314,Back of Asian ships sail - combine with GRA04310?
+4322,Back of Asian ships sail - combine with GRA04318?
+4325,Back of North European ships sail
+4313,Back of North European ships sail - combine with GRA04309?
+4321,Back of North European ships sail - combine with GRA04317?
+4328,Back of West European ships sail
+4316,Back of West European ships sail - combine with GRA04312
+4324,Back of West European ships sail - combine with GRA04320
+2295,Bamboo chopped down stumps
+4584,Bamboo stumps
+2293,Bamboo Trees
+3589,Banner between two poles
+3592,Banner between two poles 每 similar to GRA03589
+171,Battering Ram
+179,Battering Ram 每 possibly the same as GRA00171
+181,Battering Ram 每 Possibly the same as GRA00171 and GRA00179
+180,Battering Ram Decaying
+2560,Berry bush
+4373,Berserker attacking
+4386,Berserker attacking - appears identical to GRA04373
+4393,Berserker decaying
+4376,Berserker dying
+4389,Berserker dying - appears identical to GRA04376
+4383,Berserker moving
+4396,Berserker moving - appears identical to GRA04383
+4379,Berserker standing
+4392,Berserker standing - appears identical to GRA04379
+4499,Beta Ice
+409,Beta release dock
+2793,Beta version Pikeman?
+1355,Beta version walls
+75,Bigger Explosion Smoke
+429,Bigger Fire
+430,Bigger Fire than GRA00428
+431,Bigger Fire than GRA00430
+4518,Birds from the dock
+1871,Bitmap with Church 4 on it
+2555,Boar attacking
+2558,Boar decaying
+2556,Boar dying
+2559,Boar moving
+2557,Boar standing
+68,Bombard Decaying
+64,Bombard Dying
+61,Bombard firing
+71,Bombard Moving
+67,Bombard standing still
+4574,Bottom Part of Forest Trees
+4577,Bottom Part of Palm Trees
+4580,Bottom Part of Pine Trees
+212,Boulder possibly for Trebuchet
+3692,Bridge left end / slope
+3694,Bridge left end \ slope
+3690,Bridge middle / slope
+3696,Bridge middle \ slope
+3688,Bridge right end / slope
+3698,Bridge right end \ slope
+3534,Britons Wonder
+4588,Broken Bridge / position left hand end
+4587,Broken Bridge / position middle section
+4589,Broken Bridge / position right hand end
+4591,Broken Bridge \ position left hand end
+4590,Broken Bridge \ position middle section
+4592,Broken Bridge \ position right hand end
+414,Burning ball?
+210,Burning Boulder possibly Trebuchet shot
+3814,Burning catapult boulder
+3819,Burning spear
+3545,Byzantines Wonder
+4474,Cactus
+683,Camel decaying
+679,Camel dying
+676,Camel fighting
+686,Camel moving
+682,Camel standing
+4244,Cannon galleon hull
+1681,Capped ram
+1689,Capped ram
+1691,Capped ram
+1690,Capped ram decaying
+1686,Capped ram dying
+1693,Capped ram wheel animation
+4481,Carpets.
+206,Cataphract Decaying
+202,Cataphract Dying
+199,Cataphract Fighting
+209,Cataphract Moving
+205,Cataphract Standing still
+3803,Catapult Boulder
+3635,Cathedral
+856,Cavalier decaying
+852,Cavalier dying
+849,Cavalier fighting
+859,Cavalier moving
+855,Cavalier standing
+327,Cavalry Archer decaying
+323,Cavalry Archer dying
+320,Cavalry Archer firing bow
+330,Cavalry Archer moving
+326,Cavalry Archer standing still
+3538,Celts Wonder
+3085,Champion attacking
+3092,Champion decaying
+3088,Champion dying
+3095,Champion moving
+3091,Champion standing
+3546,Chinese Wonder
+215,Chu-Ko-Nu Attacking
+222,Chu-Ko-Nu decaying
+218,Chu-Ko-Nu dying
+225,Chu-Ko-Nu moving
+221,Chu-Ko-Nu standing still
+229,Cliff section
+230,Cliff section
+231,Cliff section
+232,Cliff section
+233,Cliff section
+234,Cliff section
+235,Cliff section 每 lighter colour?
+226,Cliffs
+4685,Cobra Car
+4585,Construction sequence for Fish Trap
+4478,Crater
+193,Crossbowman Decaying
+189,Crossbowman Dying
+186,Crossbowman Firing
+196,Crossbowman Moving
+192,Crossbowman Standing Still
+898,Cup? and something?
+2683,Dark Age Barracks
+376,Dark Age Dock
+2223,Dark Age houses
+3482,Dark Age Mill donkey Animation
+3483,Dark Age Mill without Donkey Animation
+3595,Dark Age town center roof support, left side front
+3596,Dark Age town center roof supports, left side
+3594,Dark Age town center roof, left side
+4610,Dark Age Town Center roof, right side
+889,Dark Age town center support shadows
+4612,Dark Age Town Center, right side roof support
+4611,Dark Age Town Center, right side roof supports
+733,Darker version of GRA00730
+1262,Dead Tree
+1268,Dead Tree
+3979,Decaying foot figure two tone trousers bare top?
+3978,Decaying foot figure?
+344,Deer decaying
+339,Deer dying
+336,Deer Eating
+342,Deer Eating again?
+343,Deer moving
+348,Deer moving again?
+4347,Demolition Ship exploding.
+4299,Demolition ship's hull
+4397,Dock building sequence
+4267,Dome of the Rock
+176,Dying Battering Ram
+614,Elite Skirmisher decaying
+610,Elite Skirmisher dying
+617,Elite Skirmisher moving
+613,Elite Skirmisher standing
+607,Elite Skirmisher throwing spear
+1124,Empty trade cart decaying
+1119,Empty trade cart dying
+4486,Empty trade cart moving
+1122,Empty trade cart standing
+4586,Explosion
+4605,Explosion
+73,Explosion Smoke
+4370,Explosion?
+4268,Fast fire ship hull
+1878,Female hunter possibly cutting something
+2568,Female village carrying basket dying
+1876,Female villager berry gatherer kneeling
+1875,Female villager berry gatherer moving
+1874,Female villager builder building
+1402,Female villager builder decaying
+1398,Female villager builder dying
+1405,Female villager builder moving
+1401,Female villager builder standing
+1389,Female villager decaying
+1467,Female villager decaying not sure if miner or builder or what?
+1385,Female villager dying
+3840,Female Villager farmer sowing seed
+1382,Female villager fighting?
+4602,Female Villager forager moving
+1877,Female villager hunter moving with meat
+1421,Female villager hunting with bow
+2573,Female villager kneeling picking berries
+2118,Female villager miner carrying gold
+1879,Female villager miner carrying stone
+1454,Female villager miner decaying
+1450,Female villager miner dying
+1880,Female villager miner mining
+1457,Female villager miner moving
+1453,Female villager miner standing
+1392,Female villager moving
+2576,Female villager moving with empty basket
+4656,Female Villager shepherd decaying
+3678,Female Villager shepherd dying
+3841,Female Villager shepherd herding sheep
+3677,Female Villager shepherd killing sheep
+3681,Female Villager shepherd moving
+3679,Female Villager shepherd standing
+1388,Female villager standing
+1414,Female villager standing carrying a basket
+1415,Female villager with basket decaying
+2572,Female villager with basket decaying
+1411,Female villager with basket dying
+1418,Female villager with basket moving
+2571,Female villager with basket standing
+1428,Female villager with bow decaying
+1424,Female villager with bow dying
+1431,Female villager with bow moving
+1427,Female villager with bow standing
+1883,Female villager woodcutter carrying wood
+1434,Female villager woodcutter chopping
+1884,Female villager woodcutter chopping
+1441,Female villager woodcutter decaying
+1437,Female villager woodcutter dying
+1444,Female villager woodcutter moving
+1440,Female villager woodcutter standing
+4194,Fire Ball sequence
+4255,Fire ships hull
+3983,Fireball
+3984,Fireball
+420,Fish (Perch)
+1910,Fish Dorado
+1905,Fish Marlin
+1906,Fish Marlin
+1912,Fish Perch
+1911,Fish Salmon
+1913,Fish snapper
+3593,Fish Trap
+3549,Fish Tuna
+444,Fishing ship
+449,Fishing ship 每 same as GRA00444?
+446,Fishing ship nets
+2660,Flag
+4356,Flag
+4521,Flag
+2662,Flag - appears identical to GRA02660
+2663,Flag - appears identical to GRA02660 & GRA02662
+3586,Flag 每 fleur-de-lise ?
+4534,Flag - partial animation sequence?
+3583,Flag as above, pointing diagonal down right
+1361,Flag Banner
+1362,Flag Banner
+1363,Flag Banner
+1372,Flag Banner
+1373,Flag Banner
+1374,Flag Banner
+1360,Flag Banner
+1375,Flag Banner 每 beta? Hanging in doorway?
+2401,Flag for Arabic Fortified gate tower - GRA02403
+2389,Flag for Arabic stone gate tower - GRA02393?
+2400,Flag for Asian fortified gate tower - GRA02402
+2388,Flag for Asian stone gate tower - GRA02392?
+2399,Flag for North European fortified gate tower - GRA02401
+2387,Flag for North European stone gate tower - GRA02391?
+2402,Flag for West European Fortified gate tower - GRA02404
+2390,Flag for West European stone gate tower - GRA02394?
+1886,Flag pole from beta version of West European Imperial market
+4358,Flag same as GRA04356 etc
+4359,Flag same as GRA04356 etc
+4360,Flag same as GRA04356 etc
+4362,Flag same as GRA04356 etc
+4363,Flag same as GRA04356 etc
+3580,Flag sideways on
+4597,Floating rubble from a docks destruction?
+1251,Forest Tree
+4652,Forest Trees
+435,Forest/Oak Trees
+3541,Franks Wonder
+1127,Full trade cart moving
+1665,Gaia Crack
+4487,Gaia Destroyed Ship / position
+4488,Gaia Destroyed Ship \ position
+2519,Gaia Flowers Num. 1
+2520,Gaia Flowers Num. 2
+2521,Gaia Flowers Num. 3
+2522,Gaia Flowers Num. 4
+3737,Gaia Rocks
+2530,Gaia Ruined Building
+2682,Gaia Torch
+4199,Galleon ships hull
+696,Galley ROR
+4300,Galley's hull
+4479,Gold Mine
+2561,Gold objects
+3535,Goths Wonder
+2261,Green Snow Topped Mountain Number 1
+2262,Green Snow Topped Mountain Number 2
+588,Hand cannoneer decaying
+584,Hand cannoneer dying
+581,Hand cannoneer firing
+587,Hand cannoneer standing
+591,Hand cannonner moving
+578,Hawk flying
+576,Hawk gliding
+577,Hawk shadow flying
+575,Hawk shadow gliding
+2762,Heavy Camel attacking
+2769,Heavy camel decaying
+2765,Heavy camel dying
+2768,Heavy camel standing
+2772,Heavy camel standing
+3764,Heavy Cavalry Archer decaying
+3760,Heavy Cavalry Archer dying
+3757,Heavy Cavalry Archer firing
+3767,Heavy Cavalry Archer moving
+3763,Heavy Cavalry Archer standing
+4338,Heavy Demolition Ship exploding.
+4253,Heavy demolition ship hull
+2813,Heavy scorpion attacking
+2820,Heavy scorpion decaying
+2816,Heavy scorpion dying
+2821,Heavy scorpion moving
+2819,Heavy scorpion standing
+2823,Heavy scorpion wheels
+3770,Hero Frankish Paladin type attacking
+3777,Hero Frankish Paladin type decaying
+3773,Hero Frankish Paladin type dying
+3780,Hero Frankish Paladin type moving
+3776,Hero Frankish Paladin type standing
+3790,Hero Joan of Arc Cavalry decaying
+3786,Hero Joan of Arc Cavalry dying
+3783,Hero Joan of Arc Cavalry fighting
+3793,Hero Joan of Arc Cavalry moving
+3789,Hero Joan of Arc Cavalry standing
+1742,Hero Joan the maid decaying
+1738,Hero Joan the maid dying
+1735,Hero Joan the maid fighting
+1745,Hero Joan the maid moving
+1741,Hero Joan the maid standing
+239,Huge size building sequence
+4537,Huscarl attacking.
+4540,Huscarl decaying
+4538,Huscarl dying.
+4541,Huscarl moving
+4539,Huscarl standing
+641,Janissary decaying
+637,Janissary dying
+634,Janissary firing
+644,Janissary moving
+640,Janissary standing
+3537,Japanese Wonder
+1761,King
+1768,King decaying
+1764,King dying
+1771,King moving
+1767,King standing
+670,Knight decaying
+666,Knight dying
+663,Knight Fighting
+673,Knight moving
+669,Knight standing
+3811,Large burning arrow
+3734,Large Pavilion
+4369,Large Pyramid
+238,Large size building sequence
+4496,Large Yurt, canvas roof
+4489,Large Yurt, thatched roof
+3987,Larger smoke puff
+2998,Light cavalry attacking
+3005,Light cavalry decaying
+3001,Light cavalry dying
+3008,Light cavalry moving
+3004,Light cavalry standing
+4609,Loaded Trade Wagon decaying
+4607,Loaded Trade Wagon dying
+4608,Loaded Trade Wagon standing
+710,Longbowman decaying
+705,Longbowman dying
+702,Longbowman firing
+713,Longbowman moving
+708,Longbowman standing
+1182,Longswordsman decaying
+1178,Longswordsman dying
+1175,Longswordsman fighting
+1185,Longswordsman moving
+1181,Longswordsman standing
+1495,Male villager builder decaying
+1490,Male villager builder dying
+1496,Male villager builder kneeling
+1499,Male villager builder moving
+1493,Male villager builder standing
+2583,Male villager carrying basket dying
+1481,Male villager decaying
+1476,Male villager dying
+1511,Male villager farmer decaying
+1506,Male villager farmer dying
+1512,Male villager farmer farming
+1515,Male villager farmer moving
+3842,Male Villager farmer sowing seed
+1509,Male villager farmer standing
+1473,Male villager fighting
+3980,Male Villager fisher moving with fish
+3479,Male Villager forager attacking
+1519,Male villager hunter carrying meat
+1527,Male villager hunter decaying
+1522,Male villager hunter dying
+1528,Male villager hunter kneeling slaughtering meat
+1531,Male villager hunter moving
+1525,Male villager hunter standing
+1518,Male villager hunter using bow
+2589,Male villager kneeling picking berries
+2117,Male villager miner carrying gold
+1552,Male villager miner carrying stone
+1559,Male villager miner decaying
+1555,Male villager miner dying
+1560,Male villager miner mining
+1563,Male villager miner moving
+1558,Male villager miner standing
+1484,Male villager moving
+2592,Male villager moving with empty basket
+4649,Male Villager shepherd decaying
+3683,Male Villager shepherd dying
+3843,Male Villager shepherd herding sheep
+3682,Male Villager shepherd killing sheep
+3686,Male Villager shepherd moving
+3684,Male Villager shepherd standing
+1479,Male villager standing
+2588,Male villager with basket decaying
+2586,Male villager with basket standing
+1536,Male villager woodcutter carrying wood
+1535,Male villager woodcutter chopping
+1545,Male villager woodcutter chopping - appears identical to GRA01535
+1544,Male villager woodcutter decaying
+1539,Male villager woodcutter dying
+1548,Male villager woodcutter moving
+1542,Male villager woodcutter standing
+351,Mameluke attacking
+358,Mameluke decaying
+354,Mameluke dying
+361,Mameluke moving
+357,Mameluke standing still
+1045,Man-at-arms decaying
+1041,Man-at-arms dying
+1038,Man-at-arms fighting
+1048,Man-at-arms moving
+1044,Man-at-arms standing
+723,Mangonel decaying
+719,Mangonel dying
+716,Mangonel firing
+724,Mangonel moving
+722,Mangonel standing
+726,Mangonel wheels turning
+789,Mangudai decaying
+785,Mangudai dying
+782,Mangudai fighting
+792,Mangudai moving
+788,Mangudai standing
+427,Medium Fire
+428,Medium Fire
+237,Medium size building sequence
+994,Militia decaying
+990,Militia dying
+987,Militia fighting
+997,Militia moving
+993,Militia standing
+3539,Mongols Wonder
+3827,Monk carrying relic
+3824,Monk carrying relic disappearing?
+3831,Monk carrying relic moving
+775,Monk decaying
+771,Monk dying
+768,Monk fighting
+776,Monk fighting appears identical to GRA00768
+779,Monk moving
+774,Monk standing
+3982,Mosque
+4594,Mountain 3
+4595,Mountain 4
+2296,Multiple shadows from deciduous forest
+2308,Multiple shadows from forest
+2300,Multiple shadows from palm forest
+2304,Multiple shadows from pine forest
+2533,Nice Green Tree
+4480,Nine Bands trophy/flag of Gengis Khan.
+742,North European animation for mill sails shadows? Castle Age & Imperial Age
+33,North European Archery Range Castle Age & Imperial Age
+21,North European Archery Range Feudal Age
+4232,North European back of small sail sequence - combine with GRA04228?
+142,North European Barracks Castle Age & Imperial Age
+130,North European Barracks Feudal Age
+102,North European Blacksmith Castle Age & Imperial Age
+90,North European Blacksmith Feudal Age
+2546,North European bombard tower
+302,North European Castle
+2244,North European Castle Age & Imperial Age houses
+1018,North European Castle Age & Imperial Age Stable
+3609,North European Castle Age town center left side roof
+3617,North European Castle Age town center left side roof support
+3613,North European Castle Age town center left side roof supports
+4625,North European Castle Age Town Center, right side roof
+4633,North European Castle Age Town Center, right side roof support
+4629,North European Castle Age Town Center, right side roof supports
+4169,North European Damaged Stone Wall
+397,North European Dock Castle Age & Imperial Age
+385,North European Dock Feudal Age
+2232,North European Feudal Age houses
+1006,North European Feudal Age Stable
+3597,North European Feudal Age town center left side roof
+3605,North European Feudal Age town center left side roof support
+3601,North European Feudal Age town center left side roof supports
+4617,North European Feudal Age Town Center right side roof supports
+4613,North European Feudal Age Town Center, right side roof
+4173,North European Fortified Damaged Wall
+4075,North European fortified gate building sequence -- position
+3714,North European Fortified gate building sequence / position
+3730,North European Fortified gate building sequence \ position
+4163,North European fortified gate building sequence | position
+1938,North European Fortified Gate closed / position
+2439,North European Fortified Gate closed \ position
+4035,North European Fortified Gate open -- position
+4123,North European Fortified Gate open | position
+2367,North European Fortified Gate raised / position
+2475,North European Fortified Gate raised \ position
+4011,North European Fortified Gate shut -- position
+4099,North European Fortified Gate shut | position
+2403,North European Fortified gate tower
+4189,North European Fortified severely Damaged Wall
+2110,North European Fortified Wall
+3750,North European Fortified wall building sequence
+4661,North European fortified wall shadows?
+4621,North European Fuedal Age Town Center far right roof support
+4067,North European gate building sequence -- position
+3706,North European gate building sequence / position
+3722,North European gate building sequence \ position
+4155,North European gate building sequence | position
+1926,North European Gate closed / position
+2427,North European Gate closed \ position
+4023,North European Gate open -- position
+4111,North European Gate open | position
+2355,North European Gate raised / position
+2463,North European Gate raised \ position
+3999,North European Gate shut -- position
+4087,North European Gate shut | position
+2664,North European Guard Tower
+4181,North European heavily damaged Fortified Wall
+4177,North European heavily Damaged Stone Wall
+3794,North European Imperial Age Market
+4637,North European Imperial Age Town Center, right side roof
+4645,North European Imperial Age Town Center, right side roof support
+4641,North European Imperial Age Town Center, right side roof supports
+2538,North European Keep
+3504,North European lumber camp
+817,North European Market Castle Age
+2275,North European Market Feudal Age
+746,North European mill animation Feudal Age
+738,North European Mill Feudal Age without animation
+750,North European mill without Animation Castle Age & Imperial Age
+3492,North European Mining Camp
+278,North European Monastery
+4245,North European sail sequences
+4185,North European severely Damaged Stone Wall
+4301,North European ships main sail sequence
+4598,North European ships main sail sequence
+4309,North European ships sail
+4317,North European ships sail.
+4224,North European Ships sails sequence
+4305,North European ships small triangular sail.
+955,North European Siege Workshop
+4236,North European small sail sequence
+4228,North European Small ships sail sequence
+4240,North European small triangular sail sequence
+98,North European Smoke from Blacksmith
+2391,North European Stone gate tower
+2098,North European Stone Wall
+912,North European top piece of Castle Age Town Center
+900,North European top piece of Feudal Age Town Center
+924,North European top piece of Imperial Age Town Center
+920,North European town center flooring Imperial age
+3469,North European Town center left side roof supports Imperial Age
+3473,North European Town center left side roof supports Imperial Age
+904,North European town center support shadows Castle Age
+892,North European town center support shadows Feudal Age
+916,North European town center support shadows Imperial age
+3465,North European Towncenter roof left side Imperial Age
+3832,North European University Castle Age
+3836,North European University Imperial Age
+3742,North European wall building sequence
+4657,North European wall shadows?
+2652,North European Watch Tower
+3017,Onager attacking
+4168,Onager decaying
+3020,Onager dying
+3024,Onager moving
+3023,Onager standing
+3026,Onager wheels
+4330,Outpost
+4573,Packed Trebuchet decaying
+4572,Packed trebuchet dying
+2279,Packed Trebuchet moving
+3072,Paladin attacking
+3079,Paladin decaying
+3075,Paladin dying
+3082,Paladin moving
+3078,Paladin standing
+1828,Palisade Wall
+4653,Palm Trees
+2524,Path Num. 1
+2525,Path Num. 2
+2526,Path Num. 3
+2523,Path Num. 4
+3540,Persians Wonder
+53,Piece of the True Cross?
+2826,Pikeman attacking
+2833,Pikeman decaying
+2829,Pikeman dying
+2836,Pikeman moving
+2832,Pikeman standing
+4654,Pine Trees
+272,Possible Cannonball in a cloud of bits?
+118,Possible Rocket or Burning Large Arrow
+120,Possible Scorpion Arrow
+4606,Possible spear or arrow?
+4682,Possibly shadow sequence from pallisades
+3405,Red four arrows command here mark
+57,Relic
+4279,Relic or piece of true cross - appears identical to GRA04278
+4278,Relic or piece of true cross - not sure which (or if used)
+228,Reverse Cliff tops
+227,Reverse Cliff tops
+2711,ROR Archer attacking
+2718,ROR Archer decaying
+2714,ROR Archer dying
+2721,ROR Archer moving
+2717,ROR Archer standing
+2787,ROR Phalanx attacking
+2794,ROR Phalanx decaying
+2790,ROR Phalanx dying
+2797,ROR Phalanx moving
+601,ROR Swordsman decaying
+597,ROR Swordsman dying
+594,ROR Swordsman fighting
+604,ROR Swordsman moving
+600,ROR Swordsman standing
+928,Rubble 2 x 2
+932,Rubble 2 x 2 more burnt
+929,Rubble 3 x 3
+930,Rubble 4 x 4
+931,Rubble 5 x 5
+4498,Saboteur moving
+4497,Saboteur standing
+4522,Same flag as GRA04358?
+4523,Same flag as GRA04358?
+432,Same size fire as GRA00428?
+981,Samurai decaying
+977,Samurai dying
+974,Samurai fighting
+984,Samurai moving
+980,Samurai standing
+3542,Saracens Wonder
+943,Scorpion decaying
+939,Scorpion dying
+936,Scorpion firing
+944,Scorpion moving
+942,Scorpion standing
+946,Scorpion wheels
+2086,Scout cavalry decaying
+2082,Scout cavalry dying
+2079,Scout cavalry fighting
+2089,Scout cavalry moving
+2085,Scout cavalry standing
+1659,Sea Rock
+1663,Sea Rock
+3807,Shadow - appears identical to GRA03803
+119,Shadow / Background for GRA00118 arrow
+4015,Shadow for 4023
+4016,Shadow for 4024
+4017,Shadow for 4025
+4018,Shadow for 4026
+2544,Shadow for Arabic bombard tower - GRA02548
+296,Shadow for Arabic castle
+4073,Shadow for Arabic fortified gate building sequence -- position - GRA04077
+3712,Shadow for Arabic fortified gate building sequence / position - GRA03716
+3728,Shadow for Arabic fortified gate building sequence \ position - GRA03732
+4161,Shadow for Arabic fortified gate building sequence | position - GRA04165
+1932,Shadow for Arabic fortified gate closed / position - GRA01940
+2433,Shadow for Arabic fortified gate closed \ position - GRA02441
+4029,Shadow for Arabic Fortified Gate open -- position - GRA04037
+4117,Shadow for Arabic Fortified Gate open | position - GRA04125
+2361,Shadow for Arabic fortified gate raised / position - GRA02369
+2469,Shadow for Arabic fortified gate raised \ position - GRA02477
+4005,Shadow for Arabic Fortified gate shut -- position - GRA04013
+4093,Shadow for Arabic Fortified Gate shut | position - GRA04101
+2397,Shadow for Arabic fortified gate tower - GRA02403
+4065,Shadow for Arabic gate building sequence -- position - GRA04069
+3704,Shadow for Arabic gate building sequence / position - GRA03708
+3720,Shadow for Arabic gate building sequence \ position - GRA03724
+4153,Shadow for Arabic gate building sequence | position - GRA04157
+1920,Shadow for Arabic gate closed / position - GRA01928
+2421,Shadow for Arabic gate closed \ position - GRA02429
+4105,Shadow for Arabic Gate open | position - GRA04113
+2349,Shadow for Arabic gate raised / position - GRA02357
+2457,Shadow for Arabic gate raised \ position - GRA02465
+3993,Shadow for Arabic Gate shut -- position - GRA04001
+4081,Shadow for Arabic Gate shut | position - GRA04089
+2658,Shadow for Arabic guard tower - GRA02666
+2536,Shadow for Arabic keep - GRA02540
+2385,Shadow for Arabic stone gate tower - GRA02393
+4350,Shadow for Arabic watch tower
+3800,Shadow for arrow?
+2543,Shadow for Asian bombard tower - GRA02547
+295,Shadow for Asian castle
+4072,Shadow for Asian fortified gate building sequence -- position - GRA04076
+3711,Shadow for Asian fortified gate building sequence / position - GRA03715
+3727,Shadow for Asian fortified gate building sequence \ position - GRA03731
+4160,Shadow for Asian fortified gate building sequence | position - GRA04164
+1931,Shadow for Asian fortified gate closed / position - GRA01939
+2432,Shadow for Asian fortified gate closed \ position - GRA02440
+4028,Shadow for Asian Fortified Gate open -- position - GRA04036
+4116,Shadow for Asian Fortified Gate open | position - GRA04124
+2360,Shadow for Asian fortified gate raised / position - GRA02368
+2468,Shadow for Asian fortified gate raised \ position - GRA02476
+4004,Shadow for Asian Fortified gate shut -- position - GRA04012
+4092,Shadow for Asian Fortified Gate shut | position - GRA04100
+2396,Shadow for Asian fortified gate tower - GRA02402
+4064,Shadow for Asian gate building sequence -- position - GRA04068
+3703,Shadow for Asian gate building sequence / position - GRA03707
+3719,Shadow for Asian gate building sequence \ position - GRA03723
+4152,Shadow for Asian gate building sequence | position - GRA04156
+1919,Shadow for Asian gate closed / position - GRA01927
+2420,Shadow for Asian gate closed \ position - GRA02428
+4104,Shadow for Asian Gate open | position - GRA04112
+2348,Shadow for Asian gate raised / position - GRA02356
+2456,Shadow for Asian gate raised \ position - GRA02464
+3992,Shadow for Asian Gate shut -- position - GRA04000
+4080,Shadow for Asian Gate shut | position - GRA04088
+2657,Shadow for Asian guard tower - GRA02665
+2535,Shadow for Asian keep - GRA02539
+2384,Shadow for Asian stone gate tower - GRA02392
+4349,Shadow for Asian watch tower
+3519,Shadow for Byzantines wonder - GRA03545
+3512,Shadow for Celts wonder - GRA03538
+3515,Shadow for Frank wonder - GRA03541
+3509,Shadow for Goths wonder - GRA03535
+377,Shadow for GRA00385
+378,Shadow for GRA00386
+379,Shadow for GRA00387
+380,Shadow for GRA00388
+389,Shadow for GRA00397
+390,Shadow for GRA00398
+391,Shadow for GRA00399
+392,Shadow for GRA00400
+3804,Shadow for GRA03803
+3813,Shadow for GRA03811 & GRA03812
+3816,Shadow for GRA03814 & GRA03815
+3511,Shadow for Japanese wonder - GRA03537
+3513,Shadow for Mongolian wonder - GRA03539
+2542,Shadow for North European bombard tower - GRA02546
+294,Shadow for North European castle
+4071,Shadow for North European fortified gate building sequence -- position - GRA04075
+3710,Shadow for North European fortified gate building sequence / position - GRA03714
+3726,Shadow for North European fortified gate building sequence \ position - GRA03730
+4159,Shadow for North European fortified gate building sequence | position - GRA04163
+1930,Shadow for North European fortified gate closed / position - GRA01938
+2431,Shadow for North European fortified gate closed \ position - GRA02439
+4027,Shadow for North European Fortified Gate open -- position - GRA04035
+4115,Shadow for North European Fortified Gate open | position - GRA04123
+2359,Shadow for North European fortified gate raised / position - GRA02367
+2467,Shadow for North European fortified gate raised \ position - GRA02475
+4003,Shadow for North European Fortified Gate shut -- position - GRA04011
+4091,Shadow for North European Fortified Gate shut | position - GRA04099
+2395,Shadow for North European fortified gate tower - GRA02401
+4063,Shadow for North European gate building sequence -- position - GRA04067
+3702,Shadow for North European gate building sequence / position - GRA03706
+3718,Shadow for North European gate building sequence \ position - GRA03722
+4151,Shadow for North European gate building sequence | position - GRA04155
+1918,Shadow for North European gate closed / position - GRA01926
+2419,Shadow for North European gate closed \ position - GRA02427
+4103,Shadow for North European Gate open | position - GRA04111
+2347,Shadow for North European gate raised / position - GRA02355
+2455,Shadow for North European gate raised \ position - GRA02463
+3991,Shadow for North European Gate shut -- position - GRA03999
+4079,Shadow for North European Gate shut | position - GRA04087
+2656,Shadow for North European guard tower - GRA02664
+2534,Shadow for North European keep - GRA02538
+2383,Shadow for North European stone gate tower - GRA02391
+4348,Shadow for North European watch tower
+3514,Shadow for Persian wonder - GRA03540
+3516,Shadow for Saracens wonder - GRA03542
+3518,Shadow for Teutons wonder - GRA03544
+4364,Shadow for the outpost
+3802,Shadow for throwing axe?
+4683,Shadow for Tower of the Flies GRA04684
+3517,Shadow for Turkish wonder - GRA03543
+3510,Shadow for Vikings wonder - GRA03536
+2545,Shadow for West European bombard tower - GRA02549
+297,Shadow for West European castle
+4074,Shadow for West European fortified gate building sequence -- position - GRA04078
+3713,Shadow for West European fortified gate building sequence / position - GRA03717
+3729,Shadow for West European fortified gate building sequence \ position - GRA03733
+4162,Shadow for West European fortified gate building sequence | position - GRA04166
+1933,Shadow for West European fortified gate closed / position - GRA01941
+2434,Shadow for West European fortified gate closed \ position - GRA02442
+4030,Shadow for West European Fortified Gate open -- position - GRA04038
+4118,Shadow for West European Fortified Gate open | position - GRA04126
+2362,Shadow for West European fortified gate raised / position - GRA02370
+2470,Shadow for West European fortified gate raised \ position - GRA02478
+4006,Shadow for West European Fortified gate shut -- position - GRA04013
+4094,Shadow for West European Fortified Gate shut | position - GRA04102
+2398,Shadow for West European fortified gate tower - GRA02404
+4066,Shadow for West European gate building sequence -- position - GRA04070
+3705,Shadow for West European gate building sequence / position - GRA03709
+3721,Shadow for West European gate building sequence \ position - GRA03725
+4154,Shadow for West European gate building sequence | position - GRA04158
+1921,Shadow for West European gate closed / position - GRA01929
+2422,Shadow for West European gate closed \ posion - GRA02430
+4106,Shadow for West European Gate open | position - GRA04114
+2350,Shadow for West European gate raised / position - GRA02358
+2458,Shadow for West European gate raised \ position - GRA02466
+3994,Shadow for West European Gate shut -- position - GRA04002
+4082,Shadow for West European Gate shut | position - GRA04090
+2659,Shadow for West European guard tower - GRA02667
+2537,Shadow for West European keep - GRA02541
+273,Shadow for West European monastery
+2386,Shadow for West European stone gate tower - GRA02394
+4351,Shadow for West European watch tower
+2517,Shadow from a beta mill - appears identical to GRA02515
+2518,Shadow from a beta mill - appears identical to GRA02515 & GRA02517
+2515,Shadow from a beta mill include rope stays?
+374,Shadow from Dark Age Dock
+730,Shadow of a Mills sails
+4336,Shadow of a ship
+4501,Shadow of a ships hull
+4502,Shadow of a ships hull
+4503,Shadow of a ships hull
+4508,Shadow of a ships hull
+4509,Shadow of a ships hull
+4510,Shadow of a ships hull
+4512,Shadow of a ships hull
+4513,Shadow of a ships hull
+4514,Shadow of a ships hull
+4515,Shadow of a ships hull
+4516,Shadow of a ships hull
+4517,Shadow of a ships hull
+2104,Shadows for Arabic fortified wall - GRA02112
+3748,Shadows for Arabic Fortified wall building sequence - GRA03752
+2092,Shadows for Arabic stone wall - GRA02100
+3740,Shadows for Arabic wall building sequence - GRA03744
+2103,Shadows for Asian fortified wall - GRA02111
+3747,Shadows for Asian Fortified wall building sequence - GRA03751
+2091,Shadows for Asian stone wall - GRA02099
+3739,Shadows for Asian wall building sequence - GRA03743
+1353,Shadows for beta walls in GRA01353
+2102,Shadows for North European fortified wall - GRA02110
+3746,Shadows for North European Fortified wall building sequence - GRA03750
+2090,Shadows for North European stone wall - GRA02098
+3738,Shadows for North European wall building sequence - GRA03742
+2105,Shadows for West European fortified wall - GRA02113
+3749,Shadows for West European Fortified wall building sequence - GRA03753
+2093,Shadows for West European stone wall - GRA02101
+3741,Shadows for West European wall building sequence - GRA03745
+3631,Sheep decaying
+3626,Sheep dying
+3634,Sheep moving
+3629,Sheep standing
+692,Ship destroyed - appears identical to GRA00495
+499,Ship from ROR
+1838,Ship from ROR - appears identical to GRA00499
+1808,Ship possibly ROR unit - appears identical to GRA00653 & GRA00657
+653,Ship ROR?
+657,Ship ROR? - appears identical to GRA00653
+495,Ship sinking 每 maybe a galleon?
+2753,Ship sinking wreckage
+2778,Ship sinking wreckage
+2116,Ship wreckage sinking - appears identical to GRA00495, 693 & 1834
+1812,Ship＊s hull - unidentified
+1784,Ship＊s hull unknown - appears identical to GRA01780
+1780,Ship＊s hull unknown - beta
+1834,Ship＊s wreckage sinking - appears identical to GRA00495 & GRA00692
+4195,Ship's Sail sequence with a lion head?
+4196,Ship's Sail sequence with a lion head?
+4197,Ship's Sail sequence with a lion head?
+4198,Ship's Sail sequence with a lion head?
+3560,Siege Onager decaying
+3556,Siege Onager dying
+3553,Siege Onager firing
+3561,Siege Onager moving
+3559,Siege Onager standing
+3563,Siege Onager Wheels
+3027,Siege ram attacking
+3036,Siege ram decaying
+3032,Siege ram dying
+3037,Siege ram moving
+3029,Siege Ram ram section attacking
+3035,Siege ram standing
+3039,Siege ram wheels
+4193,Single Fire Ball
+167,Single Handed Axeman Decaying
+163,Single Handed Axeman Dying
+160,Single Handed Axeman Fighting
+4476,Skeleton
+1651,Skirmisher decaying
+1647,Skirmisher dying
+1644,Skirmisher fighting
+1654,Skirmisher moving
+1650,Skirmisher standing
+441,Small boat sinking maybe the fishing boat?
+424,Small Fire
+425,Small Fire
+426,Small Fire
+3736,Small Pavilion door to left
+3735,Small Pavilion door to right, armour outside
+4280,Small Pyramid
+236,Small size building sequence
+971,Small Smoke puff or explosion?
+732,Smaller part shadow of Mill
+3815,Smoke Ball
+4520,Smoke from ????
+416,Smoke from explosion
+3977,Smoke or splash?
+3406,Smoke or Water Splash
+3986,Smoke puff or splash?
+3974,Smoke puff?
+50,Some sort of Arrow
+3820,Spear
+3821,Spear
+874,Spearman decaying
+870,Spearman dying
+867,Spearman fighting
+877,Spearman moving
+873,Spearman standing
+4655,Splash of Water
+3975,Splash?
+1869,Stone Icon?
+1034,Stone mine
+4482,Stone Mine sequence
+173,Swinging Part of a Battering Ram
+2264,Swordsman fighting?
+1195,Teutonic knight decaying
+1191,Teutonic knight dying
+1188,Teutonic knight fighting
+1198,Teutonic knight moving
+1194,Teutonic knight standing
+3544,Teutons Wonder
+4684,The Tower of Flies
+3801,Throwing Axe
+1058,Throwing axeman decaying
+1054,Throwing axeman dying
+1051,Throwing axeman fighting
+1061,Throwing axeman moving
+1057,Throwing axeman standing
+4583,Thrown scimitar sequence
+4575,Top Part of Forest Trees
+4578,Top Part of Palm Trees
+4581,Top Part of Pine Trees
+891,Top piece of Dark Age Town Center main building
+1900,Trade cart loaded - grey version - not used
+4254,Trade cog hull
+1138,Trade Workshop same as GRA01136
+1139,Trade Workshop same as GRA01136
+4331,Transportation ship's hull
+1246,Trebuchet decaying
+1241,Trebuchet dying
+1237,Trebuchet firing
+1244,Trebuchet standing
+1254,Tree
+1256,Tree
+1258,Tree
+1260,Tree
+1264,Tree
+1266,Tree
+1270,Tree
+1272,Tree
+1252,Tree chopped down
+1273,Tree shadow
+1250,Tree Shadow for GRA01251
+1253,Tree shadow for GRA01254
+1255,Tree shadow for GRA01256
+1257,Tree shadow for GRA01258
+1259,Tree shadow for GRA01260
+1261,Tree shadow for GRA01262
+1263,Tree shadow for GRA01264
+1265,Tree shadow for GRA01266
+1267,Tree shadow for GRA01268
+1269,Tree shadow for GRA01270
+1271,Tree shadow for GRA01272
+1035,Tree Stumps
+3543,Turks Wonder
+183,Turning Wooden Wheels for the Battering Ram
+2800,Two handed swordsman attacking
+2807,Two handed swordsman decaying
+2803,Two handed swordsman dying
+2810,Two handed swordsman moving
+2806,Two handed swordsman standing
+2606,Unidentified animation - green coloured boulder maybe?
+2593,Unidentified animation - spear maybe?
+2596,Unidentified object?
+4500,Unknown - small ball?
+4477,Unknown 135 frame animated sequence
+3976,Unknown 135 frame sequence
+4674,Unknown 20 frame shadow sequence
+4665,Unknown 5 frame shadow sequence
+4666,Unknown 5 frame shadow sequence
+4667,Unknown 5 frame shadow sequence
+4668,Unknown 5 frame shadow sequence
+4669,Unknown 5 frame shadow sequence
+4670,Unknown 5 frame shadow sequence
+4671,Unknown 5 frame shadow sequence
+4672,Unknown 5 frame shadow sequence
+4673,Unknown 5 frame shadow sequence
+4675,Unknown 5 frame shadow sequence
+4676,Unknown 5 frame shadow sequence
+4677,Unknown 5 frame shadow sequence
+4678,Unknown 5 frame shadow sequence
+4679,Unknown 5 frame shadow sequence
+4680,Unknown 5 frame shadow sequence
+3798,Unknown animation sequence - Some kind of burning missile?
+3754,Unknown animation sequence?
+4410,Unknown hero attacking
+4276,Unknown hero decaying - appears identical to GRA03853
+4284,Unknown hero decaying - same as GRA04276 etc
+4417,Unknown hero decaying as above
+4274,Unknown hero dying - appears identical to GRA03849
+4282,Unknown hero dying - same as GRA04274 etc
+4413,Unknown hero dying as above
+4281,Unknown hero fighting - same as GRA04273 etc
+3924,Unknown Hero knight attacking
+3931,Unknown Hero knight decaying
+3892,Unknown Hero knight decaying - appears identical to GRA03853
+3970,Unknown Hero knight decaying - appears identical to GRA03853
+3853,Unknown Hero knight decaying?
+3927,Unknown Hero knight dying
+3888,Unknown Hero knight dying - appears identical to GRA03849
+3966,Unknown Hero knight dying - appears identical to GRA03849
+3849,Unknown Hero knight dying?
+3885,Unknown Hero knight fighting - appears identical to GRA03846
+3963,Unknown Hero knight fighting - appears identical to GRA03846
+3846,Unknown Hero knight fighting?
+3934,Unknown Hero knight moving
+3895,Unknown Hero knight moving - appears identical to GRA03856
+3973,Unknown Hero knight moving - appears identical to GRA03856
+3856,Unknown Hero knight moving?
+3930,Unknown Hero knight standing
+3891,Unknown Hero knight standing - appears identical to GRA03852
+3969,Unknown Hero knight standing - appears identical to GRA03852
+3852,Unknown Hero knight standing?
+4277,Unknown hero moving - appears identical to GRA03856
+4285,Unknown hero moving - same as GRA04277 etc
+4420,Unknown hero moving as above
+4275,Unknown hero standing - appears identical to GRA03852
+4283,Unknown hero standing - same as GRA04275 etc
+4416,Unknown hero standing as above
+4273,Unknown hero type - appears identical to GRA03846
+3818,Unknown shadow dot?
+2554,Unknown shadows?
+4256,Unknown Ships hull
+4681,VDML Cheat Guy
+689,Vikings Long Boat
+699,Vikings Long Boat  - apears identical to GRA00689 & GRA00695
+695,Vikings Long Boat - appears identical to GRA00689 & GRA00699
+3536,Vikings Wonder
+3569,Villager female fisher casting net
+3567,Villager female fisher dying
+3565,Villager Female fisher moving carrying fish
+3570,Villager female fisher moving with net
+3568,Villager female fisher standing
+3575,Villager male fisher casting net
+3573,Villager male fisher dying
+3576,Villager male moving with net or fish
+3574,Villager male standing with net or fish
+802,War elephant decaying
+798,War elephant dying
+795,War elephant fighting
+805,War elephant moving
+801,War elephant standing
+170,Warrior with Round Shield and Sword moving
+166,Warrior with Round Shield and Sword?
+1885,Water shallows tiles - appears to be ROR - not used n AOK
+3548,Water splash
+4368,Waterline water effects for a ship
+3404,Waypoint Flag
+745,West European animation for mill sails shadows? Castle Age & Imperial Age
+36,West European Archery Range Castle Age & Imperial Age
+24,West European Archery Range Feudal Age
+4235,West European back of small sail sequence - combine with GRA04231?
+145,West European Barracks Castle Age & Imperial Age
+133,West European Barracks Feudal Age
+105,West European Blacksmith Castle Age & Imperial Age
+93,West European Blacksmith Feudal Age
+2549,West European bombard tower
+305,West European Castle
+2247,West European Castle Age & Imperial Age houses
+1021,West European Castle Age & Imperial Age Stable
+412,West European Castle Age dock similar to GRA00400
+3612,West European Castle Age town center left side roof
+3620,West European Castle Age town center left side roof support
+3616,West European Castle Age town center left side roof supports
+4628,West European Castle Age Town Center, right side roof
+4636,West European Castle Age Town Center, right side roof support
+4632,West European Castle Age Town Center, right side roof supports
+4172,West European Damaged Stone Wall
+400,West European Dock Castle Age & Imperial Age
+388,West European Dock Feudal Age
+2235,West European Feudal Age houses
+1009,West European Feudal Age Stable
+3600,West European Feudal Age town center left side roof
+3608,West European Feudal Age town center left side roof support
+3604,West European Feudal Age town center left side roof supports
+4616,West European Feudal Age Town Center right side roof
+4620,West European Feudal Age Town Center right side roof supports
+4176,West European Fortified Damaged Wall
+4078,West European fortified gate building sequence -- position
+3717,West European Fortified gate building sequence / position
+3733,West European Fortified gate building sequence \ position
+4166,West European fortified gate building sequence | position
+2442,West European Fortified Gate closed \ position
+4038,West European Fortified Gate open -- position
+4126,West European Fortified Gate open | position
+2370,West European Fortified Gate raised / position
+2478,West European Fortified Gate raised \ position
+4014,West European Fortified gate shut -- position
+4102,West European Fortified Gate shut | position
+2406,West European Fortified gate tower
+4192,West European Fortified severely Damaged Wall
+2113,West European Fortified Wall
+3753,West European Fortified wall building sequence
+4664,West European fortified wall shadows?
+4624,West European Fuedal Age Town Center far right roof support
+4070,West European gate building sequence -- position
+3709,West European gate building sequence / position
+3725,West European gate building sequence \ position
+4158,West European gate building sequence | position
+1929,West European Gate closed / position
+2430,West European Gate closed \ position
+4026,West European Gate open -- position
+4114,West European Gate open | position
+2358,West European Gate raised / position
+2466,West European Gate raised \ position
+4002,West European Gate shut -- position
+4090,West European Gate shut | position
+2667,West European Guard Tower
+4184,West European heavily damaged Fortified Wall
+4180,West European heavily Damaged Stone Wall
+3797,West European Imperial Age Market
+4640,West European Imperial Age Town Center, right side roof
+4648,West European Imperial Age Town Center, right side roof support
+4644,West European Imperial Age Town Center, right side roof supports
+2541,West European Keep
+3507,West European lumber camp
+820,West European Market Castle Age
+2278,West European Market Feudal Age
+749,West European mill animation Feudal Age
+741,West European Mill Feudal Age without Animation
+753,West European Mill without Animation Castle Age & Imperial Age
+3495,West European Mining Camp
+281,West European Monastery.
+4248,West European sail sequences
+4188,West European severely Damaged Stone Wall
+4304,West European ships main sail sequence
+4601,West European ships main sail sequence
+4312,West European ships sail
+4227,West European Ships sail sequence
+4298,West European ships sail sequence
+4320,West European ships sail.
+4308,West European ships small triangular sail
+958,West European Siege Workshop
+4239,West European small sail sequence
+4231,West European Small ships sail sequence
+4243,West European small triangular sail sequence
+101,West European Smoke from Blacksmith
+2394,West European Stone gate tower
+2101,West European Stone Wall
+915,West European top piece of Castle Age Town Center
+903,West European top piece of Feudal Age Town Center
+927,West European top piece of Imperial Age Town Center
+923,West European town center flooring Imperial age
+3472,West European town center left side roof supports Imperial Age
+3476,West European town center left side roof supports Imperial Age
+907,West European town center support shadows Castle Age
+895,West European town center support shadows Feudal Age
+919,West European town center support shadows Imperial age
+3468,West European Towncenter roof left side Imperial Age
+1136,West European Trade Workshop
+3835,West European University Castle Age
+3839,West European University Imperial Age
+3745,West European wall building sequence
+4660,West European wall shadows?
+2655,West European Watch Tower
+1941,West Europeans Fortified Gate closed / position
+3577,Wild boar running
+1599,Woad raider decaying
+1595,Woad raider dying
+1592,Woad raider fighting
+1602,Woad raider moving
+1598,Woad raider standing
+1629,Wolf attacking
+1637,Wolf decaying
+1632,Wolf dying
+1636,Wolf moving
+1640,Wolf running
+1635,Wolf standing
+241,Wonder size building sequence
+933,Wonder size rubble
+3985,Wrecked fish trap
+4490,Yurt door to left, thatched roof
+4492,Yurt door to right, thatched roof
+4491,Yurt with logs outside, thatched roof
+4495,Yurt, canvas roof, door to left
+4494,Yurt, canvas roof, door to right
+4493,Yurt, no door visible, canvas roof
+4923,Aztec Wonder
+5098,Back of large South American triangular sail
+5099,Back of medium South American triangular sail
+5096,Back of South American triangular sail
+4963,Beta Dock from AOK GRA00409?
+4723,Conquistador decaying
+4719,Conquistador dying
+4716,Conquistador fighting
+4726,Conquistador moving
+4722,Conquistador standing
+4912,Crashes Mod Pack Studio AND SLP Converter - what is it ! ! !
+5175,Debris from sinking ship identical to GRA00495 etc
+4829,Eagle Warrior decaying
+4827,Eagle Warrior dying
+4826,Eagle Warrior fighting
+4830,Eagle Warrior Moving
+4828,Eagle Warrior standing
+5241,ES Flag
+4883,Flag sequence - possibly for the sea gate?
+5142,Flag sequence probably for bombard tower GRA05143
+5136,Flag sequence probably for watchtower
+5139,Flag sequence probably for watchtower
+5242,Flag Shadows - possibly for GRA05241
+4914,Flags - 45 frames but only 9 appear to be used?
+4981,Flags possibly for the fortified gate towers?
+4978,Flags possibly for the gate towers?
+5295,Flower patches
+5303,Flying Dog
+4729,Footprints in snow
+4902,Gate building sequence -- position - West European
+4886,Gate building sequence / position - looks like the West European - sea gate?
+4894,Gate building sequence \ position - West European
+4910,Gate building sequence | position - West European
+4897,Gate closed -- position - West European
+4878,Gate closed / position - probably sea gate? West European
+4889,Gate closed \ position - West European
+4905,Gate closed | position - West European
+4900,Gate open -- position - West European
+4881,Gate open / position - probably sea gate? West European
+4892,Gate open \ position - West European
+4908,Gate open | position - West European
+4964,Graveyard monuments
+5296,Haystacks
+5035,Heads on posts
+4838,Horse dead
+4836,Horse dying
+4839,Horse moving
+4837,Horse standing
+5211,Horses and the warwagon decaying
+5207,Horses and the warwagon dying
+5214,Horses and wheel from the warwagon moving
+5204,Horses from the warwagon standing
+5210,Horses from the warwagon standing identical to GRA05204
+4919,Hun Tarkan decaying
+4917,Hun Tarkan dying
+4916,Hun Tarkan fighting
+4920,Hun Tarkan moving
+4918,Hun Tarkan standing
+4819,Hun Wonder
+4856,Hussar decaying
+4854,Hussar dying
+4853,Hussar fighting
+4857,Hussar moving
+4855,Hussar standing
+4834,Jaguar decaying
+4832,Jaguar dying
+4831,Jaguar fighting
+4835,Jaguar moving
+4833,Jaguar standing
+4861,Jaguar Warrior decaying
+4859,Jaguar Warrior dying
+4858,Jaguar Warrior fighting
+4862,Jaguar Warrior moving
+4860,Jaguar Warrior standing
+4728,Jungle
+5218,Korean Turtle ship
+5219,Korean Turtle ship appears identical to GRA05218
+5220,Korean Turtle ship appears identical to GRA05218 and GRA05219
+5238,Korean War Wagon
+5239,Korean War Wagon appears identical to GRA05238
+5240,Korean War Wagon appears identical to GRA05238 and GRA05239
+5217,Korean Wonder
+4820,Mayan Wonder
+4865,Missionary converting
+4869,Missionary converting? Either this or GRA04865 is converting the other is healing?
+4868,Missionary decaying
+4866,Missionary dying
+4870,Missionary moving
+4867,Missionary standing
+5298,Monkey exploding
+5297,Monkey fighting
+5301,Monkey moving
+5299,Monkey standing
+5143,North European Bombard Tower
+5113,North European castle age stable same as GRA01018
+5110,North European feudal age stable same as GRA01006
+5084,North European Imperial age town center flooring
+4915,Pallisade - appears to be identical to AOK palisade
+5045,Parakeet flying
+5043,Parakeet gliding
+5063,Plants
+4874,Plumed archer decaying
+4872,Plumed archer dying
+4871,Plumed archer fighting
+4875,Plumed archer moving
+4873,Plumed archer standing
+4823,Possibly an arrow - but only one frame ?
+4824,Possibly an arrow - but only one frame ?
+4825,Possibly an arrow - but only one frame ?
+5292,Roman Ruins
+5293,Ruined stone heads
+5294,Ruined trade cart
+4950,Sail - North European style
+4882,Shadow - looks like some kind of tower?
+5083,Shadow - possibly from South American castle age town center
+5074,Shadow - possibly from South American feudal age town center
+4911,Shadow for a watch tower - appears to match the West European one?
+4921,Shadow for Aztec Wonder
+5141,Shadow for Bombard tower
+5049,Shadow for Castle Age South American mill GRA05050
+5046,Shadow for Feudal Age South American mill GRA05047
+4909,Shadow for gate building sequence | position - for GRA04910
+4895,Shadow for gate closed -- position - for GRA04897
+4887,Shadow for gate closed \ position for GRA04889
+4903,Shadow for gate closed | position - for GRA04905
+4890,Shadow for gate open \ position for GRA04892
+4906,Shadow for gate open | position for GRA04908
+5044,Shadow for Parakeet flying GRA05045
+5052,Shadow for rope stays for mill
+4954,Shadow for South American Castle
+5135,Shadow for South American Castle Age watchtower GRA05137
+4965,Shadow for South American closed gate / position GRA04967
+4959,Shadow for South American dock Castle Age
+4957,Shadow for South American dock Feudal Age
+5132,Shadow for South American Feudal age watchtower GRA05134
+4968,Shadow for South American fortified gate / position GRA04970
+5017,Shadow for South American fortified gate building sequence -- position GRA05018
+4985,Shadow for South American fortified gate building sequence / position GRA04986
+5001,Shadow for South American fortified gate building sequence \ position GRA05002
+5033,Shadow for South American fortified gate building sequence | position GRA05034
+5006,Shadow for South American fortified gate closed -- position GRA05008
+4990,Shadow for South American fortified gate closed \ position GRA04992
+5022,Shadow for South American fortified gate closed | position GRA05024
+5012,Shadow for South American fortified gate open -- position GRA05014
+4974,Shadow for South American fortified gate open / position GRA04976
+4996,Shadow for South American fortified gate open \ position GRA04998
+5028,Shadow for South American fortified gate opn | position GRA05030
+4980,Shadow for South American fortified gate tower GRA04982
+5150,Shadow for South American fortified wall badly damaged GRA05151
+5146,Shadow for South American fortified wall damaged GRA05147
+5125,Shadow for South American fortified wall GRA05126
+5154,Shadow for South American fortified wall very badly damaged GRA05155
+5015,Shadow for South American gate building sequence -- position GRA05016
+4983,Shadow for South American gate building sequence / position GRA04984
+4999,Shadow for South American gate building sequence \ position GRA05000
+5031,Shadow for South American gate building sequence | position GRA5032
+5003,Shadow for South American gate closed -- position GRA05005
+4987,Shadow for South American gate closed \ position GRA04989
+5019,Shadow for South American gate closed | position GRA05021
+5009,Shadow for South American gate open -- position GRA05011
+4971,Shadow for South American gate open / position GRA04973
+4993,Shadow for South American gate open \ position GRA04995
+5025,Shadow for South American gate open | position GRA05027
+4977,Shadow for South American gate tower GRA04978
+5148,Shadow for South American stone wall badly damaged GRA05149
+5144,Shadow for South American stone wall damaged GRA05145
+5123,Shadow for South American stone wall GRA05124
+5152,Shadow for South American stone wall very badly damaged GRA05153
+5138,Shadow for South American Watchtower Imperial Age GRA05140
+5168,Shadow for the Turtle ship ?
+4813,Shadow from Hun Wonder
+5215,Shadow from Korean wonder
+4814,Shadow from Mayan Wonder
+5101,Shadow from siege workshop
+4812,Shadow from Spanish Wonder
+5176,Shadow from Turtle ship?
+5182,Shadow from Turtle ship?
+4876,Shadow of a gate closed / position - probably for sea gate? for GRA04878
+4898,Shadow of gate open -- position - for GRA04900
+4879,Shadow of Gate open / position - probably sea gate? for GRA04881
+5042,Shadow of Parakeet gliding GRA05042
+5130,Shadow of South American fortified wall building sequence GRA05131
+5128,Shadow of South American wall building sequence GRA05129
+5302,Shadow of the flying dog
+4901,Shadows for gate building sequence -- position for GRA04902
+4885,Shadows for Gate building sequence / position - possibly sea gate? for GRA04886
+4893,Shadows for Gate building sequence \ position - West European for GRA04894
+4727,Shadows for the jungle
+5100,Signpost
+4933,Smoke for the South American blacksmith
+4731,Snow covered trees
+4700,Snow patch
+4701,Snow patch
+4702,Snow patch
+4703,Snow patch
+4704,Snow patch
+4705,Snow patch
+4699,Snow patch - possibly for a building roof?
+5300,Some part of the Monkey?
+4929,South American Archery Range Castle Age
+4926,South American Archery range Feudal Age
+4937,South American back of small triangualer sail
+4939,South American back of small triangular sail
+4947,South American Barracks Castle Age
+4944,South American Barracks Dark Age
+4934,South American Blacksmith Castle Age
+4931,South American Blacksmith Feudal Age
+5051,South American Casle Age Mill
+4956,South American Castle
+5050,South American Castle Age animated sail sequence for mill
+4960,South American Dock Castle Age
+4958,South American Dock Feudal Age
+5307,South American empty trade cart decaying
+5305,South American empty trade cart dying
+5308,South American empty trade cart moving
+5306,South American empty trade cart standing
+5047,South American Feudal Age Animated sail sequence for mill
+5048,South American Feudal Age Mill
+4986,South American fortified gate building sequence
+5018,South American fortified gate building sequence -- position
+5002,South American fortified gate building sequence \ position
+5034,South American fortified gate building sequence | position
+5008,South American fortified gate closed -- position
+4970,South American fortified gate closed / position
+4992,South American fortified gate closed \ position
+5024,South American fortified gate closed | position
+5014,South American fortified gate open -- position
+4976,South American fortified gate open / position
+4998,South American fortified gate open \ position
+5030,South American fortified gate opn | position
+4982,South American fortified gate tower
+5126,South American Fortified Wall
+5151,South American Fortified wall badly damaged
+5131,South American fortified wall building sequence
+5147,South American Fortified wall damaged
+5155,South American Fortified wall very badly damaged
+5016,South American gate building sequence -- position
+4984,South American gate building sequence / position
+5000,South American gate building sequence \ position
+5032,South American gate building sequence | position
+5005,South American gate closed -- position
+4967,South American gate closed / position
+4989,South American gate closed \ position
+5021,South American gate closed | position
+5011,South American gate open -- position
+4973,South American gate open / position
+4995,South American gate open \ position
+5027,South American gate open | position
+4979,South American gate tower
+5038,South American House Dark Age
+5041,South American House Feudal Age
+5311,South American loaded trade cart decaying
+5312,South American loaded trade cart moving
+5310,South American loaded trade cart standing
+5106,South American lumber mill
+5061,South American Market Castle Age
+5058,South American Market Feudal Age
+5062,South American Market Imperial Age
+5095,South American medium triangular sail
+5055,South American Mining Camp
+5284,South American priest converting
+5288,South American priest converting appears identical to GRA05284
+5287,South American priest decaying
+5285,South American priest dying
+5286,South American priest standing
+5290,South American priest standing with relic
+5289,South American priest walking
+5291,South American priest walking with relic
+5103,South American Siege Workshop
+4936,South American small triangular sail
+4938,South American small triangular sail
+5094,South American small triangular sail
+5124,South American Stone Wall
+5149,South American Stone wall badly damaged
+5145,South American Stone wall damaged
+5153,South American Stone wall very badly damaged
+4953,South American Temple
+5076,South American town center castle age left side roof
+5078,South American town center castle age left side roof single support
+5077,South American town center castle age left side roof two supports
+5079,South American town center castle age right side roof
+5080,South American town center castle age right side roof single support
+5081,South American town center castle age right side roof single support
+5082,South American town center center section castle age
+5073,South American town center center section feudal age
+5067,South American Town Center feudal age left side roof
+5069,South American town center feudal age left side roof single support
+5068,South American town center feudal age left side roof two supports
+5070,South American town center feudal age right side roof
+5071,South American town center feudal age right side roof single support
+5072,South American town center feudal age right side roof single support
+5091,South American town center imperial age center section
+5085,South American town center imperial age left side roof
+5087,South American town center imperial age left side roof three supports
+5086,South American town center imperial age left side roof two supports
+5088,South American town center imperial age right side roof
+5090,South American town center imperial age right side roof single support
+5089,South American town center imperial age right side roof three supports
+4935,South American triangular sail
+5097,South American triangular sail
+5092,South American triangular sail sequence sail emptying
+5093,South American triangular sail sequence sail filling
+5119,South American University Castle Age
+5122,South American University Imperial Age
+5129,South American wall building sequence
+5137,South American Watchtower Castle Age
+5134,South American Watchtower Feudal Age
+5140,South American Watchtower Imperial Age
+5309,South Americant loaded trade cart dying
+4818,Spanish Wonder
+5107,Statue
+4884,Tall Pallisade gate tower - from sea gate trick
+4730,Tree/forest shadows
+5166,Turkey  decaying
+5164,Turkey running
+5165,Turkey standing
+5167,Turkey walking
+5065,Unknown Shadow
+4913,Unknown Shadow?
+5118,Unknown small dot
+5121,Unknown small dot
+5127,Unused two headed lion sail
+4710,Wagon Tracks in Snow
+5116,West European trade workshop same as GRA01136
+15024,Ice
+15031,Road with fungus
+15030,Road with snow
+15026,Snow
+15029,Snow with ?????
+15027,Snow with dirt
+15028,Snow with grass
+50101,Blank sheet of parchment?
+50102,Blank sheet of parchment? Maybe different colors?
+50103,Blank sheet of parchment? Maybe different colors?
+50104,Blank sheet of parchment? Maybe different colors?
+50127,Possibly piece of  SCENARIOBKG.bmpINT50131	Maybe history section backgroundINT50137	Maybe history background, possibly same as INT50137?INT50145	Background for insrcutions at the start of a custom scenario. (Also hints & history)INT50149	Score backgroundINT50150	Blank grey strip???INT50155	The design prodution Page?INT50156	The design production page(no text)?INT50157	The programming page?INT50161	Possibly page from one of the ES cpn movies INT50162	Pics used in history section?INT50163	Conquerors load up screen
+50188,Possibly INT50156 with bottom cut off
+50189,Conquerors game screen when finished loading (town)
+50190,Possibly INT50127 with different colors?
+50202,?????????????????????????????
+50204,??? Possibly INT50204 with different colors ???
+50212,Section of wood?
+50213,Same as INT50212 with a few white distortions.
+50221,Victory/Loss background casting shadow over white ?? paper ??
+50222,Piece of parchment of wood, casting a shadow over a white ?? paper ?? Piece of above?
+50223,INT50221 with a compass on it??
+50224,INT50222 Enlarged?
+50225,Same as INT50221
+50226,Same as INT50224
+50230,Player colors (each color contained in it＊s own frame)
+50231,Age of Kings game screen after startup (town)
+50232,Possibly page used in ES cpn movie? Not same as INT50161
+50233,?
+50235,Possibly page used in ES cpn movie?
+50236,Possibly page used in ES cpn movie?
+50237,Possibly page used in ES cpn movie?
+50238,Possibly page used in ES cpn movie?
+50242,Possibly page used in ES cpn movie?
+50259,?????????????????????????????
+50260,Maybe INT50259 with the blue changed to black?
+50261,Maybe INT50259 or INT50260 with green changed to cyan?
+50262,Possibly same as INT50259?
+50266,Again, INT50259 with colors changed
+50269,And again
+50270,Possibly INT50204 with colors changed?
+50339,Box of player colors with a white box in them (each color contained in it＊s own frame)
+50340,Same as INT50339 with the white bigger and no gray. Frames in different order
+50341,Parchment with ordnate lines on it
+50342,Info part of tech chart, no text
+50343,Possibly INT50127 enlarged?
+50400,Copyright symbol ?(I think)
+50403,Looks like a tiny black line
+50404,Copyright symbol ?(it think)
+50406,Reserved copyright ? symbol
+50601,Cotains little checks and x＊s in it＊s frames?
+50602,Same as INT50601?
+50603,Same as INT50601?
+50604,Same as INT50601, different background color
+50606,Same as above, different background color, few different icons
+50609,Same as above, different background color
+50610,Same as INT50606? Different colors
+50611,Same as INT50606? Different colors
+50612,Same as above with different colors & back background. Crashes SLP viewer
+50613,A red line with black spirals? Has a few strange icons in frames
+50688,Same as INT50606? Different colors
+50705,Building icons?
+50706,Same as INT50705?
+50707,Same as INT50705?
+50708,Same as INT50705?
+50713,Hieroglyphics?
+50714,Same as INT50713, different color stone?
+50715,Same as INT50713, different color stone?
+50716,Same as INT50713?
+50717,Weird bar?
+50718,Gray bar, same size as INT50717? Some type of button?
+50719,Blue bricks, same size as INT50717? Some type of button?
+50720,Brown bar, same size as INT50717? Some type of button?
+50721,Command Icons?
+50725,Mini map buttons?
+50726,Buttons at top (e.g. chat, menu, objectives, tech tree, etc.)
+50727,Same as INT50725?
+50728,Same as INT50725?
+50729,Tech icons?
+50730,Unit icons?
+50731,Little symbols (wood, food, gold, stone, goods, attack, armour, pierce armour, range)
+50732,Resource icons?
+50745,Health bar?
+50746,Possibly garrison flag?
+50747,Bar, similar to INT50717? Possibly a button?
+50748,Bar, similar to INT50718? Possibly a button?
+50749,Bar, similar to INT50719? Possibly a button?
+50750,Bar, similar to INT50720? Possibly a button?
+50751,Beta interface icons!
+50752,Mini map buttons (dimonds)
+50753,Possibly same as INT50726?
+50754,The final buttons that you see at the top (INT50726 in casings)
+50760,Resource icons & population icon at the top
+50761,Timeline icons
+50762,Probably garrison flag
+50763,????????????????????????????????????????????
+50764,Building progress bar?
+50765,????????????????????????????????????????????
+50766,Same as INT50761?
+50767,Shadow of something?
+50768,??? Maybe a button? ???
+50769,Shields?
+50788,Final mini map buttons
+50789,Same as INT50788?
+50790,INT50788 enlarged?
+50791,Button from chat options?
+50792,Colored bar, probably player colors (each color has it＊s own frame)
+51000,Mouse icons
+51001,Normal mouse icon, probably used if the user has ※NoMouse§ command line selected
+51002,Same as INT51001 except pink
+51003,Same as INT51001?
+51004,Same as INT51001 except green
+51005,INT51001 with orange border?
+51007,Same as INT51001?
+51008,Same as INT51001?
+51009,Same as INT51001 with yellow border?
+51010,Same as INT51001 with blue border?
+51101,Top with no menu icons and beta food icon?
+51102,Same as INT51101 but different background?
+51103,Same as INT51101 but different background?
+51104,Same as INT51101 but different background?
+51105,Same as INT51101 but different background?
+51106,Same as INT51101 but different background?
+51107,Same as INT51101 but different background?
+51108,Same as INT51101 but different background?
+51109,Same as INT51101 but different background?
+51110,Same as INT51101 but different background?
+51111,Same as INT51101 but different background?
+51112,Same as INT51101 but different background?
+51113,Same as INT51101 but different background?
+51114,Top with no menu icons?
+51115,Same as INT51114 but different background?
+51116,Same as INT51114 but different background?
+51117,Same as INT51114 but different background?
+51118,Same as INT51114 but different background?
+51121,Same as INT51101 but different background?
+51122,Same as INT51101 but different background?
+51123,Same as INT51101 but different background?
+51124,Same as INT51101 but different background?
+51125,Same as INT51101 but different background?
+51126,Same as INT51101 but different background?
+51127,Same as INT51101 but different background?
+51128,Same as INT51101 but different background?
+51129,Same as INT51101 but different background?
+51130,Same as INT51101 but different background?
+51131,Same as INT51101 but different background?
+51132,Same as INT51101 but different background?
+51133,Same as INT51101 but different background?
+51134,Same as INT51114 but different background?
+51135,Same as INT51114 but different background?
+51136,Same as INT51114 but different background?
+51137,Same as INT51114 but different background?
+51138,Same as INT51114 but different background?
+51141,Same as INT51101 but different background?
+51142,Same as INT51101 but different background?
+51143,Same as INT51101 but different background?
+51144,Same as INT51101 but different background?
+51145,Same as INT51101 but different background?
+51146,Same as INT51101 but different background?
+51147,Same as INT51101 but different background?
+51148,Same as INT51101 but different background?
+51149,Same as INT51101 but different background?
+51150,Same as INT51101 but different background?
+51151,Same as INT51101 but different background?
+51152,Same as INT51101 but different background?
+51153,Same as INT51101 but different background?
+51154,Same as INT51114 but different background?
+51155,????????????????????????????????????????????
+51156,Same as INT51155
+51157,Same as INT51114 but different background?
+51158,Same as INT51114 but different background?
+51159,Same as INT51114 but different background?
+51160,Same as INT51114 but different background?
+52064,Same as INT50606? Different colors
+52065,Same as INT52065? Different colors
+53001,Hourglass?
+53002,Yellow bar?
+53003,White box with border?
+53004,Two grey arrows (each arrow has it＊s own frame)
+53005,Tab on the score page?
+53006,Box where unit info is displayed?
+53007,INT53007 enlarged?
+53008,Recorded game controls.
+53009,Same as INT52065? Different colors
+53010,Food icon (villager carrying icon)
+53011,More icons like INT52065?
+53012,Microsoft/ES label
+53014,Possibly used in ES cpn movie?
+53017,Same as INT50606?
+53101,Possibly used in ES cpn movie?
+53102,Possibly used in ES cpn movie?
+53103,Possibly used in ES cpn movie?
+53104,Possibly used in ES cpn movie?
+53131,Same as INT52065, different colors?
+53132,Same as INT52065, different colors?
+53133,Same as INT52065, different colors?
+53134,Same as INT52065, different colors?
+53161,AOE2: the conquerors sign?
+53162,Same as INT53162, different colors?
+53163,Same as INT53162, different colors?
+53164,Same as INT53162, different colors?
+53171,Same as INT53162, different colors?
+53172,Same as INT53162, different colors?
+53173,Same as INT53162, different colors?
+53174,Same as INT53162, different colors?
+53200,Microsoft button in TC about
+53201,Same as INT53200, less distortion
+53202,ES button in TC about
+53203,Same as INT53202, less distortion
+53204,Flashing Microsoft & ES text back and forth
+53206,Coloured boxes with white squares in them
+53207,TC Name enlarging
+53208,Victory/loss page?
+53209,Images from cpn movies
+53210,White box
+53211,A window, or X

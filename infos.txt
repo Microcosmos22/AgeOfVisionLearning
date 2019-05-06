@@ -1,0 +1,23 @@
+Unit	R	G	B
+Scout	135,156,5
+Knight	182,180,44
+Church	78,61,186
+Uni	35,65,174
+Castle	76,184,219
+Market	255,144,0
+TC	150,137,152
+Farms	255,0,96
+House	152,50,231
+Monk	255,180,0
+Vil.Min	193,131,50
+VIl.Far	242,178,95
+Vil.Wd	213,137,38
+
+Bitmap background color: Farbton 200, Saett 240, Hell 120
+RGB = (255,0,255)
+
+Terrains
+15002: SHore water
+15015: Deep water
+15016: Medium water
+Empty?: 0,1,8,9

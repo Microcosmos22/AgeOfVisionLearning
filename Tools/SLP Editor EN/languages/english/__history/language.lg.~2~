@@ -1,0 +1,54 @@
+Failed to load language file - file does not exist.
+Failed to decode SLP images.
+Failed to load SLP files.
+This file has not been saved - save now?
+Save failed - no SLP file has been loaded.
+Save failed - no SLP file has been loaded.
+Failed to decode SLP images.
+No GIF image can be saved - no SLP file has been loaded.
+SLP Anchorer 1.0 beta
+translated by Trisolo (scenario_t_c)
+Frame:
+Delay:
+No image can been used to save as GIF image.
+At least one frame should be selected.
+Save failed - an incorrect delay time is entered.
+File
+Save 
+Save as ...
+Save as animated GIF ...
+About ...
+Exit
+Move left
+Move up
+Move right
+Move down
+Display mode
+Main body
+Selection mask
+All
+Background
+Anchor
+Zoom scale
+Standard
+200%
+400%
+600%
+Test view
+Play
+Stop
+Speed
+Select the frame(s) to make animated GIF from and modify the delay time.
+Delay time (ms)
+Loop (0 for infinite loop)
+Move up
+Move down
+Select all
+Delete
+Save as ...
+Cancel
+Palette
+No images to be extracted, perhaps you should reload a SLP file?
+Select at least one image to extract(frames).Select folder
+Choose a directory to save files.
+Extract bitmap
