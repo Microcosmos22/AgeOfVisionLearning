@@ -8,7 +8,7 @@ import mss
 import numpy
 import cv2, math
 from PIL import Image, ImageDraw, ImageColor
-from findlines import getminimapscreen
+from findlines import getminimapscreen, getcorners, getscreenposition
 
 """
 Minimap Coordinates:
@@ -102,11 +102,13 @@ def paint_minimap_background(img):
     return img
     
 if __name__ == "__main__":
-    img = Image.open("Screenreader/test.jpg").convert('RGB')
+    img = Image.open("Screenreader/screenshot-minimap-cut.png").convert('RGB')
     #img = paint_minimap_background(img)
     img_opencv = numpy.array(img)
     img_opencv = img_opencv[:, :, ::-1].copy() 
-    getminimapscreen(img_opencv)
+    #getminimapscreen(img_opencv)
+    print(getscreenposition(img_opencv))
+    
     """_______________________________________________
     #System.Threading.Thread.Sleep(5000);
     #p = Point(5,5)

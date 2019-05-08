@@ -13,25 +13,151 @@ def show_wait_destroy(winname, img):
     cv.waitKey(0)
     cv.destroyWindow(winname)
     
-def getminimapscreen(src):
-    # Check if image is loaded fine
-    if src is None:
-        print ('Error opening image: ' + argv[0])
-        return -1
-    #cv.imshow("src", src)
-    print(type(src))
+def imagetogray(src):
+    if len(src.shape) != 2:
+        gray = cv.cvtColor(src, cv.COLOR_BGR2GRAY)
+    else:
+        gray = src
+    
+    #show_wait_destroy("binary", gray)
+    return gray
+        
+def imagetobinary(src, show = 0):
     # Transform source image to gray if it is not already
     if len(src.shape) != 2:
         gray = cv.cvtColor(src, cv.COLOR_BGR2GRAY)
     else:
         gray = src
-    print("Src image:")
-    print(gray)
+        
+    # Apply Threshold to get binary
+    bw, binary = cv.threshold(gray, 225, 255, cv.THRESH_BINARY)
     
-    # Apply adaptiveThreshold at the bitwise_not of gray, notice the ~ symbol
-    gray = cv.bitwise_not(gray)
-    bw = cv.adaptiveThreshold(gray, 100, cv.ADAPTIVE_THRESH_MEAN_C, \
-                                cv.THRESH_BINARY, 15, -2)
+    if show == 1:
+        show_wait_destroy("gray", gray)
+        show_wait_destroy("binary", binary)
+    
+    return binary
+    
+def check_upperleft(i, j, binary):
+    whitepixel = True
+    
+    for di in range (0, 10):
+        if binary[i+di][j] == 0: #unten
+            whitepixel = False
+            
+    for dj in range (0, 10):
+        if binary[i][j+dj] == 0: #rechts
+            whitepixel = False
+            
+    return whitepixel
+    
+def check_upperright(i, j, binary):
+    whitepixel = True
+    
+    for di in range (0, 10):
+        if binary[i+di][j] == 0: #unten
+            whitepixel = False
+            
+    for dj in range (0, 10):
+        if binary[i][j-dj] == 0: #rechts
+            whitepixel = False
+            
+    return whitepixel
+    
+def check_bottomleft(i, j, binary):
+    whitepixel = True
+    
+    for di in range (0, 10):
+        if binary[i-di][j] == 0: #oben
+            whitepixel = False
+            
+    for dj in range (0, 10):
+        if binary[i][j+dj] == 0: #rechts
+            whitepixel = False
+            
+    return whitepixel
+    
+def check_bottomright(i, j, binary):
+    whitepixel = True
+    
+    for di in range (0, 10):
+        if binary[i-di][j] == 0: #oben
+            whitepixel = False
+            
+    for dj in range (0, 10):
+        if binary[i][j-dj] == 0: #links
+            whitepixel = False
+            
+    return whitepixel
+    
+def getscreenposition(minimap_img):
+    """
+    Get screen position (center of rectangle) in pixel coordinates relative 
+    to the upper-left corner of the Minimap-Cut
+    """
+    xradius = 29.5
+    yradius = 14
+    
+    cornertype, x, y = getcorners(minimap_img)
+    screenpos = (0,0)
+    print(x,y)
+    
+    if cornertype == "upperleft":
+        print("UL Detected")
+        screenpos = (x+xradius, y+yradius)
+    elif cornertype == "upperright":
+        print("UR Detected")
+        screenpos = (x-xradius, y+yradius)
+    elif cornertype == "bottomleft":
+        print("BL Detected")
+        screenpos = (x+xradius, y-yradius)
+    elif cornertype == "bottomright":
+        print("BR Detected")
+        screenpos = (x-xradius, y-yradius)
+    
+    return screenpos
+    
+def getcorners(img):
+    """
+    Finds any corner of the screen rectangle in the minimap and return as
+    ("which corner" pixel-x, pixel-y)
+    """
+    # Convert to grayscale
+    binary = imagetobinary(img, 0)
+    counti = 0
+    countj = 0
+    foundcorner = ("none", 0,0)
+    
+    for j in range (0, binary.shape[0]):
+        for i in range (0, binary.shape[1]):
+            if binary[j][i] == 255 and j>10 and j<154 and i>10 and i<316:
+            
+                if(check_upperleft(j,i, binary) == True):
+                    foundcorner = ("upperleft",i,j)
+                    return foundcorner
+                elif(check_upperright(j,i, binary) == True):
+                    foundcorner = ("upperright",i,j)
+                    return foundcorner
+                elif(check_bottomleft(j,i, binary) == True):
+                    foundcorner = ("bottomleft",i,j)
+                    return foundcorner
+                elif(check_bottomright(j,i, binary) == True):
+                    foundcorner = ("bottomright",i,j)
+                    return foundcorner
+            """
+                if(check_upperleft(j, i, binary) == True):
+                    foundcorner = ("upperleft",i,j)
+                elif()
+            """
+    #print(foundcorner)
+    
+def getminimapscreen(src):
+    # Check if image is loaded fine
+    if src is None:
+        print ('Error opening image: ' + argv[0])
+        return -1
+        
+    bw = imagetobinary(src)
     
     # Show binary image
     #show_wait_destroy("binary", bw)
@@ -42,11 +168,11 @@ def getminimapscreen(src):
     
     # Create structure element for extracting lines
     cols = horizontal.shape[1]
-    horizontal_size = 1
+    horizontal_size = cols/5
     horizontalStructure = cv.getStructuringElement(cv.MORPH_RECT, (int(horizontal_size), 1))
     
     rows = vertical.shape[0]
-    verticalsize = 1
+    verticalsize = rows/5
     verticalStructure = cv.getStructuringElement(cv.MORPH_RECT, (1, int(verticalsize)))
     
     # Apply morphology operations
@@ -59,8 +185,8 @@ def getminimapscreen(src):
     vertical = cv.dilate(vertical, verticalStructure)
     #print(vertical)
     # Show extracted horizontal lines
-    #show_wait_destroy("horizontal", horizontal)
-    #show_wait_destroy("vertical", vertical)
+    show_wait_destroy("horizontal", horizontal)
+    show_wait_destroy("vertical", vertical)
     
     
     # Inverse vertical image
@@ -96,16 +222,42 @@ def getminimapscreen(src):
     """______________________________________________________
     Find Coordinates of Rectangle:
     """
-    print(type(len(rows)))
     rectangle = []
-    for i in range (0,len(rows)-1):
-        for j in range (0, len(cols)-1):
-            print (i,j)
+    count=0
+    #print(len(rows), len(cols))
+    for i in range (0, horizontal.shape[0]):
+        for j in range (0, horizontal.shape[1]):
+            rectangle.append((j,i))
             if horizontal[i][j] == 0:
-                rectangle.append[(i,j)]
+                print (j, i)
+                print(horizontal[i][j])
+                if count == 0:
+                    upperleft = (j,i)
+                    #print("count: %d" %count)
+                    count = count+1
+                    break
                 
-    print(rectangle)
-    print(horizontal[4][3])
+    
+    i = horizontal.shape[0] - 1
+    j = horizontal.shape[1] - 1
+    count = 0
+    #print(len(horizontal))
+    
+    while i >= 0:
+        j = horizontal.shape[1] - 1
+        while j >= 0:
+            #print (j,i)
+            if horizontal[i][j] == 0 and count==0:
+                downright = (j,i)
+                #print("count: %d" %count)
+                count = count+1
+                break
+            j = j-1
+        i = i-1
+    
+    print(downright)
+    print(upperleft)
+    #print(rectangle)
     
     return 0
     
